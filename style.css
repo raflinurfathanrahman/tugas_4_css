@@ -1,0 +1,13 @@
+.judul{
+    text-decoration: underline;
+}
+.register {
+    font-size: 15px !important;
+    font-size: 18px;
+    font-size: 20px;
+
+}
+[type="button"]{
+    color: goldenrod;
+    font-size: 25px;
+}
